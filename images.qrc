@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Images"/>
+    <qresource prefix="/">
+        <file>Images/worldmap.png</file>
+        <file>Images/enemy.png</file>
+        <file>Images/penemy.png</file>
+        <file>Images/penemy_dead.png</file>
+        <file>Images/hp.png</file>
+        <file>Images/warrior.png</file>
+        <file>Images/worldmap4.png</file>
+        <file>Images/maze.png</file>
+        <file>Images/maze1.png</file>
+        <file>Images/zombie_dead.png</file>
+        <file>Images/zombie.png</file>
+    </qresource>
+</RCC>
